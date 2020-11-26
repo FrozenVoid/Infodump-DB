@@ -1,0 +1,11 @@
+Macros>templates
+1.Template expansion is actually worse to debug than
+macro expansion; type specialization in macros is deferred to parser.
+2.C++ type safety creates need for workarounds to bypass it,
+like the conversions between const/non-const stuff.
+Macros allow to bypass types with typeof()
+3.C++ name mangling creates lovecraftian strings for every type
+specialization/overload that also multiply binary size.
+C11 _Generic macros solve overload more elegantly.
+4.the templates are confined to start of functions,
+duplicating most non-template code, unlike macro inserts.
