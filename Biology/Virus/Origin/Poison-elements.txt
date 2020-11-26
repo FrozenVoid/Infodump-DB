@@ -1,0 +1,3 @@
+Idea:
+origin of viruses as a form of cell defense against predation.
+ A prey cell would have "poisonous elements" that destroy the predator cell if eaten, by integrating into its DNA/RNA or disrupting the host metabolism/reproduction - effectively a 'poisonous cell'.
