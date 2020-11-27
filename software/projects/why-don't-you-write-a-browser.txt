@@ -1,0 +1,19 @@
+Writing a big software project is possible: i can confidently
+say a single person with moderate skills can write a browser
+in a year of effort - it just would take some persistence in focus.
+However maintaining such a project and dealing with tech support issues
+would take years off productive time and bringing it to competitive
+margin with mainline browsers such as chrome will take constant, daily
+ effort equivalent to writing thousands of lines per day.
+big projects limit creative freedom and confine focus to
+issues and problems that can't be solved without cooperating with
+large amounts of people; a toy browser/OS eventually grows to
+support some community - debugging& maintaining standards/protocols/formats
+as new demands occur, like a full time job.
+I don't commit to such responsibility and prefer to explore
+programming as hobby, writing and abandoning projects as i see fit
+without permanent commitment. The UNIX paradigm of "making small
+tools to deal with problems" instead of monolithic systems, also weights
+in my approach to software and profound complexity of "modern web" and
+"modern Operating systems" which require thousands of lines of supporting
+code to maintain in sync. 
