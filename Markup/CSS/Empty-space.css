@@ -1,0 +1,6 @@
+Setting width:900px or margin:30px is not scalable.
+Besides it creating empty space, the design is only looking good
+on specific resolutions, unlike vw/vh units.
+It adds ugly empty space "gaps" which waste screen real estate.
+Margins and padding are nasty hacks that hide bad positioning 
+of actual nodes.
