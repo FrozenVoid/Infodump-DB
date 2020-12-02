@@ -1,0 +1,11 @@
+1.constant writes to disk. for SSD each day lifespan is reduced.
+2.high CPU use in idle state.
+3.lots of useless components that could be optional extension/plugin.
+4.Lots of functionality that should be built-in for speed(userstylers/userscripts/adblock)
+5.Memory leaks and waste of memory in general.
+6.ui lag and lack of user-centric optimizations.
+7.reliance on javascript as substitute to compiled code(mainly XUL-like runtimes)
+8.reliance on online infrastructure from megacorporations as part of browser;
+e.g.downloading various lists, verifying sites,etc.(Chrome/firefox)
+9.A penchant for experimenting with users, pushing various extensions 
+and features nobody asks.
