@@ -4,4 +4,3 @@ These are not meant to be taken seriously, only serve
 as inspiration and brain-storming stuff.
 
 
-Rules for contributors: https://github.com/FrozenVoid/RULES.txt
