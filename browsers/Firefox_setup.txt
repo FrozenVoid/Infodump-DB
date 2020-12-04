@@ -1,0 +1,21 @@
+ essential addons:
+Ublock origin
+RequestPolicy Continued
+Tampermonkey/Greasemonkey
+TabMixPlus
+Stylus/Stylem
+Dorando Keyconfig
+Classic Addons Archive
+
+----
+Password Exporter(rarely used)
+Github WC polyfill(palemoon fix for github WebComponents)
+
+
+Keyconfig:
+reload f5
+Close tab F6
+back f7
+Undo close tab f8
+
+
