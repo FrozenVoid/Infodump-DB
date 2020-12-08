@@ -1,0 +1,7 @@
+at least for element blocking, i think the current CSS wizardry
+required to emulate parent selectors 
+is inefficient and could be replaced by simply extending CSS to refer to 
+parentNode. CSS parent selector will be required for next stage in adblocking:
+css stateless selectors > dynamic blocking, and ad providers 
+are using dynamically generated div soup contexts where CSS blocking
+fails to find a path to target element.
