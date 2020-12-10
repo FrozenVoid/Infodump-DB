@@ -1,0 +1,4 @@
+instead of using shift(or keybindings) to
+use secondary values in row of '`1234567890-=\'
+there could be a dedicate row below function keys 
+allowing directly pressing ~!@#$%^&*()_+| and possibly <>?
