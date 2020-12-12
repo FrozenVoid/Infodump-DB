@@ -1,0 +1,6 @@
+A SVG file will solve the following:
+1.Multiple icon size: SVG icons will be scalable at any res.
+2.Bloat: png/ico/x-icon are pixel based vs vectors.
+3.Flexibility:SVG Vectors can be minified and optimized for performance/size.
+Disadvantages:
+Current svg rendering may be insecure or slow vs image formats.
