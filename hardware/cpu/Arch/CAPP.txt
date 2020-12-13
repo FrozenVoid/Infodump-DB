@@ -1,0 +1,5 @@
+A content-aware memory system which allows to perform
+vector operations on memory block.
+The memory block range is sent commands and all cells
+of that block range are operated on in parallel.
+https://en.wikipedia.org/wiki/Content_Addressable_Parallel_Processor
