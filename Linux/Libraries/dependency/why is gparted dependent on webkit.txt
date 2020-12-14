@@ -1,0 +1,7 @@
+I've checked that mx-installer depends on gparted,
+which uses yelp-based 'help system' and yelp
+depends on webkit(to display html), which is to say,
+Linux partition editor depends on Webkit.
+A low-level tool that should have just a man/info page
+and at most .html files, but chooses a specific format viewer
+that require webkit libraries...
