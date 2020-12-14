@@ -1,0 +1,7 @@
+It seems Rust has more or less stabilized with
+no major syntax changes or library drift.
+ Rust was viewed as too unstable and buggy(based on their
+issue tracker the compiler segfaults quite too often),
+and borrow checker was extremely pedantic, but currently
+they claim both have substantially improved.
+Is it a valid competitor to C++? Time will tell.
