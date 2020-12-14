@@ -2,3 +2,6 @@ a lightweight alternative for bloat-free systems;
 Assign a single unicode codepoint as "Icon" of application;
 Unicode contains a wide array of symbols, emoji and pictograms
 that require only a few bytes to store.
+(if program has no Icon a letter variant of its name's first letter
+can used, e.g. two programs which start with F will get sequential
+variants of F(or its homographic equivalent glyphs))
