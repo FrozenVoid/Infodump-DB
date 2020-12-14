@@ -1,0 +1,4 @@
+a lightweight alternative for bloat-free systems;
+Assign a single unicode codepoint as "Icon" of application;
+Unicode contains a wide array of symbols, emoji and pictograms
+that require only a few bytes to store.
