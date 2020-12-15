@@ -13,6 +13,7 @@ Github WC polyfill(palemoon fix for github WebComponents)
 
 
 Keyconfig:
+F1 if ("gPageStyleMenu" in window)gPageStyleMenu.disableStyle();
 reload f5
 Close tab F6
 back f7
