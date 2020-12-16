@@ -1,0 +1,17 @@
+Lockdowns work chiefly due this:
+1.Reduced human gatherings reduce spread ratio(r-number),
+removing viral vectors. Virus spread is proportional
+to density of population, cities are known to be hotspots
+since ancient times for any communicable disease.
+
+2.Night curfew/lockdown prevents transmission 
+during hours where Sun UV radiation is absent.
+UV radiation kills viruses: especially direct sunlight.
+At night people are unaware of personal inter-distance,
+allowing droplets(cough/breathing) to spread easier(low lightning+no UV).
+
+3.Lockdowns discourage non-local travel:
+Isolation depends on virus staying-at-place and decaying with low R-number,
+whereas traveling spreads new mutations and variants to distant
+population centers, allowing access for a high genetic diversity(potential
+easy vectors/mutations).
