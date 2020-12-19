@@ -1,0 +1,3 @@
+Instead of basing on lists as building block,
+why not use a multimap structure instead?
+https://en.wikipedia.org/wiki/Multimap
