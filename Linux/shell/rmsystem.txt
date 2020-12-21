@@ -1,0 +1,2 @@
+rmsystem would a special version of rm that
+is required to deleted system files(protected folders like /bin /sbin /etc /sys /mnt /var /dev /root)
