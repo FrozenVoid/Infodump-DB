@@ -1,0 +1,3 @@
+Fortran still has no unsigned integers and very few compilers
+support 'UNSIGNED' directive.
+this means all bithacks and unsigned arithmethic with its defined overflow(unsigned overflow) are not utilized.
