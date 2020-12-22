@@ -1,0 +1,14 @@
+Most content/functionality should be accessible within
+3 levels of indirection; e.g. 3 clicks, 3 menu choices,etc.
+What should go in:
+1.Selection of category.
+2.selection of sub-category or core function.
+3.Normal functionality. 
+4.Niche/rare functionality that is rarely used.
+5.Advanced tweaking/settings that don't appear to be useful in average use-case. 
+Protips:
+User defined hotkeys can reference any useful functions to reduce indirection.
+Group most important functionality earlier in the list.
+Always Use scrollbars to avoid interface being partially invisible.
+Allow command line parameters to set all options at start of program.
+Always enable keyboard navigation of tab-panes/categories/submenus/popup elements.
