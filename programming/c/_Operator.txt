@@ -1,0 +1,8 @@
+C needs operator overloading,
+like _Generic but for function forwarding.
+Examples:
+_Operator(type1,^,type2) function(type1,type2)
+_Operator(type1,++) function2(type1)
+_Operator(--,type2) function3(type2)
+when expression
+type1^type2 is encountered its forwarded to function associated.
