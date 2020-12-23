@@ -1,0 +1,2 @@
+multidimensional arrays with [x,y,z] access syntax
+equivalent to [x][y][z]
