@@ -1,0 +1,2 @@
+auto keyword should alias to '__auto_type' extension, per the GCC manual:  
+or be extended to C++ auto.
