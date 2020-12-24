@@ -1,0 +1,25 @@
+Its still puzzling for some why a mediocre scripting language become
+so powerful and influential.
+Origins:
+1.JavaScript central place in the web was created due
+lack of competing <script> implementations in browsers:
+<script> tags were not confined to JavaScript.
+2.Ease of use: easy C-like syntax and dynamic typing were influential
+at attracting new programmers. 
+3.Low-bandwidth interactive content that can be examined and studied without any barriers:
+ JavaScript animations, popups, interactive menus and simple games were instrumental
+at carving up a niche. Unlike Flash, javaScript is inherently open-source content,
+that allows new programmers to copy and learn the tricks/features of a webpage. 
+Features of language:
+1.Prototypes: there seems to be a hidden OOP gem that is rarely explored,
+yet its model of adding 'prototype functions' is very natural to understand vs class inheritance(esp.multiple inheritance), allowing greater flexibility in design. 
+2.JavaScript arrays: the js associative array design is extremely flexible,
+with objects accessible as arrays e.g. obj['methodstring']() creating unique
+ dynamic approaches to evaluation(e.g. obj[get_method(p)](get_param(e)) ==obj.method_name(param) )
+without eval(), as well as Function() constructors;
+3.Typed arrays; Typed arrays transformed javaScript to allow performance
+ optimizations exclusive to native compilers.
+4.syntax with complex operators simplifying code flow:
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function*
+
