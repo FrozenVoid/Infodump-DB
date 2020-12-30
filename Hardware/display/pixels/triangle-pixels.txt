@@ -1,0 +1,7 @@
+triangle pixels are RGB pixels arranged into a triangle,
+alternating upright/downright triangles like
+/\/\
+\/\/
+each pixel forms rgb part as
+ /\     \/\/
+/\/\ or  \/
