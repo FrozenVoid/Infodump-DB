@@ -1,0 +1,4 @@
+a path with obstacles is first constructed as direct path,
+and then iterative repair removes parts with obstacles to
+create a clean path around the obstacles by trying to move path
+parts to other directions one at a time.
