@@ -1,0 +1,6 @@
+functions with 4+ arguments are like small programs,
+they're consolidating too much complexity:
+How-to fix:
+a.split functionality into separate functions
+b.abstract out parameters into an object pointer.
+c.make some arguments optional/NULL default
