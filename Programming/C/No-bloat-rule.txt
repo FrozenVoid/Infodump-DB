@@ -1,0 +1,4 @@
+C systematically enforces "No-bloat rule":
+Bloatware is readily apparent and superflous code and complexity
+is paid for in bugs. C code that is small and easily understood is 
+fast and easy to debug.
