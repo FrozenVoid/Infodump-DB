@@ -1,0 +1,14 @@
+A pattern of 8x8 subpixels arranged as a square to cover spectral colors
+V=Violet I=Indigo B=Blue C=Cyan G=Green Y=Yellow O=Orange R=Red
+VIBCGYOR
+GYORVIBC
+VIBCGYOR
+GYORVIBC
+VIBCGYOR
+GYORVIBC
+VIBCGYOR
+GYORVIBC
+
+
+
+
