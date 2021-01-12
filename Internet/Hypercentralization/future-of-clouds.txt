@@ -1,0 +1,23 @@
+Current hyper-centralized "internet of clouds" is going
+to end up with same fate as walled gardens of past(cf. AOL).
+Economies of scale that power the clouds will eventually run out 
+of steam, with smaller datacenters and local hosting getting the
+same performance per watt(consider things like cryptocoin mining moving towards 
+cheaper local electricity sources).
+
+Some metrics that clouds excel at create anti-patterns
+
+1.Single point of failure cascades:
+system that are "too big to fail" are vulnerable 
+to central system attacks(e.g. ISP block, censorship, DDoS).
+
+2.Mandatory occupancy:If the cloud is mostly 
+unused its waste of hardware and electricity to keep
+it running.
+A.Hardware turnover is slow, meaning clouds
+are essentially running on old computer clusters(less efficient).
+
+3.Overhead of network interaction:
+distrubuted services create a cost vs integrated systems.
+https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+
