@@ -1,0 +1,24 @@
+C simplicity forces the bloat of software 
+into code bloat that makes it obvious the performance
+implications of complex design.
+High level languages can easily hide bloat under clever
+abstractions but when the compiler decides it
+can't optimize the elegant abstraction it creates a
+ sub-optimal code path that would be obvious in C.
+ 
+C flaws force programmers to actually test their code,
+not depending on the compiler to find all possible errors,
+C forces low-level understanding of what is going on,
+decomposition of problems into functions and tracing source of errors.
+In effect the 'primitive' control flow operations that C depends on
+allow the programmer to reason about algorithms clearly,
+mentally freeing oneself for algorithm design and not search
+for most elegant abstraction to compose.
+
+C is not suitable for large projects(e.g. Linux kernel),
+where multiple components interact extensively,
+forcing the 'unix way' of small programs interacting with each other,
+where each piece of software is well-tested, independent component
+that doesn't rely on global state. 
+
+ 
