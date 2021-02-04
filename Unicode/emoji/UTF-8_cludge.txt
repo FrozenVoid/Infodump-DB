@@ -1,0 +1,7 @@
+UTF-8 was designed to be backwards compatible
+with ascii, this was in era where text file size was
+significant.A proper 4byte encoding(UTF-32) would resolve
+all problems with UTF-8(and allow 4B glyphs), with compression taking care of most
+size problems.
+some of utf8 deficiencies:
+https://medium.com/swlh/three-reasons-why-utf-8-is-awful-4e7d2bd62b02
