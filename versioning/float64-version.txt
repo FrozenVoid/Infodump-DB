@@ -1,0 +1,9 @@
+float64 versions are a solution to version system
+that uses the following format:
+version is a  floating point number in form; x.y
+they can be easily compared and intuitively understood.
+e.g. 5.03 5=Major version 03 minor version
+a patch could be 5.031 and a minor fix for it 5.0311
+
+
+
