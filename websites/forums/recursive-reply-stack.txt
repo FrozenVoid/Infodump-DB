@@ -1,0 +1,16 @@
+a forum thread splits into sub-forums which are
+titled with replies first line of text,
+and instead of threaded reply stack,
+reply chain become sub-forums, allowing growing discussion
+recursively.
+example 1:
+thread A
+reply1-> link to new subforum titled as reply-1 text.
+reply2-> link to new subforum ..etc
+withe reply to reply1 forming another subforum,etc.
+
+Advantages->
+1.can sort by density of sub-forum content, instead of score.
+threads evolve into their own subforums if they're popular.
+2.automatically created sub-categories/forums for new content.
+forum structure becomes user-editable content.
