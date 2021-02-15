@@ -1,0 +1,8 @@
+there are no files, every category of files is a specific
+database which containg files/tags/collections,
+e.g. program database for loading programs,
+picture database for storing pictures,etc
+each with its own capabilities: a rogue program can't erase another program
+because it doesn't have the capability to open the program database.
+Sockets and non-file devices are just sockets and devices,
+with their own capability/acl systems.
