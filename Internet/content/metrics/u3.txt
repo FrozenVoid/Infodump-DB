@@ -1,0 +1,9 @@
+Easy metrics to gauge potential audience interest
+unique - content is unique/novel(e.g. discovery)
+useful - content presents useful information(facts/stats/graphs)
+unusual - content is not in routine/normal/predictable form:
+the last metric is about form of representation,
+e.g. a meme is more unusual form of distributing content
+vs a dry summary(similar to one-sentence posters vs long-form text)
+which would create more interest and can be backed by quotes/citations/etc.
+
