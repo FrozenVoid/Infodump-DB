@@ -1,4 +1,4 @@
-AI could be used to create semantic compression,
+AI could be used to create semantic compression( https://en.wikipedia.org/wiki/Semantic_compression ),
 e.g. turning a 100 page book into 30page book by removing
 superflous detail, irrelevant descriptions and
 segments which have no influence on the rest of the book,
