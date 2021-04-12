@@ -1,0 +1,6 @@
+quake hotspots in the earthquake list is a location of 
+earthquakes in same region separated by small intervals,
+where locations are clustered closely, indicating some movement 
+of the quake-creating process.
+
+https://openhazards.com/faq/earthquakes-faults-plate-tectonics-earth-structure-user-submitted-questions/what-hotspot-and-how
