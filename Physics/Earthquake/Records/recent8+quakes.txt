@@ -1,0 +1,19 @@
+Response     Date & Time Latitude Longitude degrees     Depth km Magnitude Region 
+        F    2004-12-26   00:58:50.7    3.50     N      95.72     E      10    9.3     OFF W COAST OF NORTHERN SUMATRA
+2        F    2011-03-11   05:46:23.0    38.30     N      142.50     E      22    9.0     NEAR EAST COAST OF HONSHU, JAPAN
+42    13    VIII    2010-02-27   06:34:14.1    35.89     S      73.04     W      30    8.8     OFFSHORE MAULE, CHILE
+            2005-03-28   16:09:32.5    2.16     N      97.17     E      10    8.6     NORTHERN SUMATRA, INDONESIA
+8        IV    2012-04-11   08:38:35.0    2.37     N      93.17     E      10    8.4     OFF W COAST OF NORTHERN SUMATRA
+            2007-09-12   11:10:21.5    4.40     S      101.36     E      10    8.4     SOUTHERN SUMATRA, INDONESIA
+56        VI    2015-09-16   22:54:31.8    31.55     S      71.58     W      20    8.3     OFFSHORE COQUIMBO, CHILE
+            2006-11-15   11:14:15.2    46.66     N      153.35     E      30    8.3     KURIL ISLANDS
+25        V    2013-05-24   05:44:48.0    54.91     N      153.34     E      598    8.3     SEA OF OKHOTSK
+            2007-01-13   04:23:22.3    46.29     N      154.56     E      30    8.2     EAST OF KURIL ISLANDS
+2        F    2018-08-19   00:19:37.3    18.13     S      178.14     W      558    8.2     FIJI REGION
+            2009-09-29   17:48:11.2    15.42     S      172.13     W      10    8.1     SAMOA ISLANDS REGION
+            2007-04-01   20:39:55.0    8.33     S      156.90     E      10    8.1     SOLOMON ISLANDS
+10    8    X    2014-04-01   23:46:47.0    19.68     S      70.85     W      20    8.1     OFFSHORE TARAPACA, CHILE
+        F    2021-03-04   19:28:35.6    29.54     S      177.28     W      25    8.1     KERMADEC ISLANDS, NEW ZEALAND
+215    12    V    2017-09-08   04:49:21.2    15.02     N      93.81     W      72    8.1     OFFSHORE CHIAPAS, MEXICO
+            2012-04-11   10:43:09.0    0.81     N      92.45     E      10    8.0     OFF W COAST OF NORTHERN SUMATRA
+179    5    V    2019-05-26   07:41:13.6    5.81     S      75.27     W      112    8.0     NORTHERN PERU
