@@ -1,0 +1,9 @@
+new scehem fro Crypteria:
+1.file->intX
+2.generate random IntA of same size as intX,
+3.A xor X=> B, store merged A+B as int Q of x2 size.
+4.prepare a random Int Z of x4 size of Q.
+5.spray bits of Q into Z, force-setting bits at positions determined
+by usual crypteria random chain of places(gap 0-4).
+6.run through reversible transforms to obfuscate output.
+
