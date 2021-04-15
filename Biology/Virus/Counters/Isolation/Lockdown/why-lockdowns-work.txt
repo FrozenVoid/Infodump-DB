@@ -15,3 +15,6 @@ Isolation depends on virus staying-at-place and decaying with low R-number,
 whereas traveling spreads new mutations and variants to distant
 population centers, allowing access for a high genetic diversity(potential
 easy vectors/mutations).
+
+Note that lockdown make sense only when costs of such lockdown(economic/health) are temporary: a semi-permanent lockdown will
+have secondary effects that negate health benefits by lowering overall life quality which includes physical and mental health.
