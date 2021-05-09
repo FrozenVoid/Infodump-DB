@@ -1,4 +1,4 @@
-A site catalogue for English neologisms describing complex emotional/mental states
+A site catalogue for English neologisms(and some obscure words author wants to revitalize) describing complex emotional/mental states
 that current language doesn't have a word for
 (popular, dictionary words require mass audience that
 expirience such emotions).
