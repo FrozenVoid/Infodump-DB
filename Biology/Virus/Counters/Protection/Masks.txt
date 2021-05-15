@@ -1,0 +1,50 @@
+Masks are a low-cost device to reduce virus particles
+ inhaled/exhaled, however they have several drawbacks.
+Masks don't provide as much protection as people think,
+in fact making people with masks take risks and unnencessary
+ travel will increase transmission.
+
+1.Mass-produced Cotton Masks are inherently inferior
+to respirators with real filters,
+specifically gas masks in filtering any particles, they
+ are only used due low cost: the filtering of N95(95%) grade masks is
+ far below of HEPA(99.97%) and ULPA(99.999%) standard filters.
+(Using several masks at once does increase filtering capability,
+but is far less effective vs gas masks).
+
+2.Masks require proper fitting without any air-gaps,
+since an air gap negates protection from incoming air.
+This is the main problem of filtering viral particles.
+The design of masks requires a clean shaven, even skin to
+fit tightly with mask edges, without any crumpling(which allows
+ air-gaps), as the path of least resistance will go through
+ open space in the air gap.
+
+3.Masks pores allow smaller particles to pass:
+the virus in smaller particles,e.g. micro-dust, tiny droplets,smoke.
+Efficiency of filtering, even with 3-4 masks is inherently limited,
+as fibers in the filter are simply too porous for filtering
+microscopic droplets/particles,
+which requires a HEPA/ULPA filter capable of capturing them at
+the pressure required to breath through is
+too high(which is dealt with fan-assisted respirators).
+
+4.Masks quickly degrade with organic compounds and
+fouling/blocking of the pores, 
+dependent on humidity and air quality.
+Disposable masks also create an infection vector if used by
+ infected individuals and discarded in public places: the idea of 
+ "throwaway masks" is bad for epidemic control, as all such
+ masks would need to be safely burned or stashed in secure
+ container for later disposal(same with disposable gloves).
+
+
+Ideally if epidemic was taken seriously,
+state-sponsored production of ULPA respirators should
+be required in all contexts(hospitals, airports, crowds),
+instead of relying on N95 masks that only reduce
+the inhaled particles by 95% at peak efficiency of the standard.. 
+
+Another promising approach is bactericidal compounds in masks
+(though evidently they also have a limited lifespan),
+https://www.jpost.com/health-science/israel-makes-anti-coronavirus-mask-from-biological-warfare-disinfectant-652565
