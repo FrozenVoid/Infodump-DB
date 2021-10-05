@@ -1,0 +1,88 @@
+If you have no artistic talent, AI has that covered.
+Steps to create your own music:
+1.Generate Seed Melody:
+you will need 4 random blocks of data from:
+https://qrng.anu.edu.au/random-block-alpha/
+Copy these blocks to
+2. Text melody generator:
+http://kickthejetengine.com/langorhythm/
+Click save MIDI, don't bother listening in its current quality.
+
+3.Change primary instrument to something like 'vibraphone' or 'violin'
+You can use a midi editor or some web tool to edit
+the first track of result midi. Pick any instrument
+that sounds better than default piano.
+
+4. Convert MIDI to .wav/.mp3 
+Ensure you use best quality soundfonts.
+
+5.Autotune:
+Use autotune tool/app/website to harmonize the melody.
+Additionally you can normalize volume/pitch/tempo 
+to more palatable sound: some autotune tools
+ only work good with vocals, try different.
+ Note: If your preffered 'music genre' is something
+  unpolished, experimental or noise-like don't autotune,
+  the random QRNG output will be better(autotune
+  sound synthethic).
+
+5.Name the melody in format Band Name - Song Name:
+You can have multiple 'Band' accounts to categorize
+ resulting music. e.g. name generators
+https://www.name-generator.org.uk/band-name/
+https://randomnamegenerator.org/song-name-generator
+If you prefer to give it a 'personal touch'
+Generate artist name + avatar
+Avatar: https://artflow.ai/ Upscale with bigjpg
+Name: http://www.rinkworks.com/namegen/index.shtml
+
+
+6.Cover picture for a song:
+use https://huggingface.co/spaces/flax-community/dalle-mini
+with input from random 9-30 char strings 
+from https://qrng.anu.edu.au/random-block-alpha/
+pick the most colorful/complex pic
+then upscale it x4 with 
+https://bigjpg.com/ (optional: denoise)
+
+7.Use a graphics editor to place band name &
+ song title into the picture center(or if center is complex
+  in some corner). Fancy fonts with graphics effects
+  (3D, emboss, caleidoscope) with the letters will make
+  it automatically professional looking.
+  Use ornate/cursive font with bold, big letters for maximum effect.
+  A name should not be covering more about 1/10 the height
+ of image. 
+  
+ 8.Combine the wave file & resulting "song picture"
+ in a video editor. Upload the video to youtube or 
+ some video sharing website of your choice.
+ Don't upload multiple videos per day: let the site algo 
+ think its unique,rare content uploaded infrequently.
+ 
+ 9.Optional; Use proxies/VPN and view your video
+  each 1-2 hours from  different IPs - this boosts its ranking.
+  If you have multiple accounts upvote/like the song:
+  but place the upvotes/likes organically(random delay
+  of 2-5 hours each from different IP/account).
+  Promote the song if you like from anonymous/fake profiles
+   on social media.
+ 
+ 10. You're now a music creator. If you're lucky
+ some of the generated song will make it big:
+ people liked the melody & organically upvoted it.
+ Now you can add vocals:
+ Use vocaloid/utau type software and generate lyrics
+ from https://www.song-lyrics-generator.org.uk/
+ Autotune the result. Try different lyrics+music combos.
+  
+
+
+
+
+
+
+
+
+
+
