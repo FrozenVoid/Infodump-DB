@@ -12,6 +12,8 @@ Click save MIDI, don't bother listening in its current quality.
 You can use a midi editor or some web tool to edit
 the first track of result midi. Pick any instrument
 that sounds better than default piano.
+Note:Multiple random tracks(from #2) can be combined,
+though autotuning the result will be harder.
 
 4. Convert MIDI to .wav/.mp3 
 Ensure you use best quality soundfonts.
