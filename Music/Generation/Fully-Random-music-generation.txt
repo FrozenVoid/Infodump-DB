@@ -73,11 +73,12 @@ https://bigjpg.com/ (optional: denoise)
  10. You're now a music creator. If you're lucky
  some of the generated song will make it big:
  people liked the melody & organically upvoted it.
- Now you can add vocals:
+ Now you can add vocals(optional):
  Use vocaloid/utau type software and generate lyrics
  from https://www.song-lyrics-generator.org.uk/
  Autotune the result. Try different lyrics+music combos.
   
+  Linux utau alternative: https://github.com/titinko/utsu/
 
 
 
