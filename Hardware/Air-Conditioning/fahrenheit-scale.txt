@@ -1,0 +1,5 @@
+One of advantages of using fahrenheit is
+more precise control of temperature:
+e.g. in Celsius the range between 20C and 30C(10degrees)
+expands to 68F to 86F(18 degrees)
+https://www.zmescience.com/other/fahrenheit-vs-celsius-did-the-u-s-get-it-right-after-all/
