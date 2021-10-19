@@ -1,0 +1,4 @@
+while :
+do
+code here 
+done
