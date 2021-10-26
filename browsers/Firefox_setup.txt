@@ -19,4 +19,5 @@ Close tab F6
 back f7
 Undo close tab f8
 
-
+---------
+browser.sessionhistory.max_total_viewers =1 (minimizes memory use,)
