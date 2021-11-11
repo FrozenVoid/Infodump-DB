@@ -1,0 +1,50 @@
+!this is my filter for ublock, assuming modern browser, private window
+!reddit media filter
+old.reddit.com##div[data-domain="i.redd.it"]
+old.reddit.com##div[data-domain="v.redd.it"]
+old.reddit.com##div[data-domain="i.imgur.com"]
+old.reddit.com##div[data-domain="imgur.com"]
+old.reddit.com##div[data-domain="gfycat.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain$=".tumblr.com"]
+old.reddit.com##div[data-domain$=".twitch.tv"]
+old.reddit.com##div[data-domain$=".giphy.com"]
+old.reddit.com##div[data-domain="youtube.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##div[data-domain="reddit.com"]
+old.reddit.com##.midcol.unvoted
+old.reddit.com##span.rank
+old.reddit.com###header-img
+old.reddit.com##li.share
+old.reddit.com##.footer-parent
+old.reddit.com##.login-form
+old.reddit.com##.sidebox
+old.reddit.com##a[href$="/gilded"]
+old.reddit.com##a[href$="/gilded/"]
+old.reddit.com##a.thumbnail.default
+old.reddit.com##li.login-required
+old.reddit.com##.hide-button
+old.reddit.com##a.thumbnail:style(width:20vw!important)
+old.reddit.com##a.thumbnail>img:style(width:100%!important;height:100%!important)
+
+old.reddit.com###header:style(background:none!important;height:auto!important)
+old.reddit.com##span.pagename.redditname
+old.reddit.com##.footer-parent
+old.reddit.com##span.awardings-bar
+
+
+old.reddit.com##div[data-author]:style(border:0.25vh solid red!important)
+
+old.reddit.com###header-bottom-right
+*##html:style(background:none!important;background-color:black!important)
+*##html *:style(font-size:0.5cm!important;line-height:0.75cm!important;background-color:transparent!important;color:orange!important)
+*##a:style(background-color:black!important;color:yellow!important)
+www.youtube.com##player *:style(background-color: transparent!important;text-shadow: 2px 2px black!important)
+www.youtube.com##.ytp-chrome-controls *:style(background-color: transparent!important;text-shadow: 2px 2px black!important)
+www.youtube.com##.ytp-cued-thumbnail-overlay *:style(background-color: transparent!important;text-shadow: 2px 2px black!important)
+www.youtube.com##ytd-rich-item-renderer:has(ytd-thumbnail-overlay-resume-playback-renderer):style(background-color:green!important)
+www.youtube.com##ytd-rich-item-renderer:has(a[aria-label$="From your Watch later playlist"]):style(background-color:red!important)
