@@ -1,0 +1,18 @@
+A pipe with expanding conus(diameter)
+at both ends have the following
+advantages:
+1.smooth transition boundary
+vs linear pipe having a sharp,
+abrasive boundary: deformation/deterioriation
+of ends in pipe is very common.
+Ends of such pipes can be 
+reinforced separately.
+
+2.Ability to mechanically link
+ pipes of smaller diameter,
+ by length of expanded conus
+ section.
+
+3.reduce abrasion due lack of
+boundary(edge) at transition to
+normal pipe diameter.
