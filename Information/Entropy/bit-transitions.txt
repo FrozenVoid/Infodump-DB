@@ -1,0 +1,5 @@
+The number of bit transitions
+(0->1,1->0) is an interesting
+measure of entropy.
+e.g. number 01010101 has 7 transitions
+ and 111101 has only 2.
