@@ -1,0 +1,2 @@
+Chess moves can be encoded as
+pair of I-Ching hexagrams(64x64).
