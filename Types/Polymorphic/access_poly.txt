@@ -1,0 +1,9 @@
+An exotic type of polymorphism,
+that keeps all value_types 
+separate:e.g. A=1 and A="string"
+would store both 1 and str_ptr
+in the variable struct,
+access of number form extracts
+1, of string extracts("string")
+otherwise undefined,
+no automatic type coercion.
