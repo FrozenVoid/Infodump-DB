@@ -12,7 +12,7 @@ fastlog2 (float x)
 }
 
 f32 entropy(u8* data,size_t len){
- u64 freq[256]={0};f32 ent=len*fastlog2(len); u64 fsum=0;
+ u64 freq[256]={0};f32 ent=len*fastlog2(len); 
 for(size_t i=0;i<len;i++)freq[data[i]]++;
 for(size_t i=0;i<256;i++){
 ent-= freq[i] * (fastlog2(freq[i]));
