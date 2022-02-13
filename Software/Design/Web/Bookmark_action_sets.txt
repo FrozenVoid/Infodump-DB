@@ -1,0 +1,14 @@
+A bookmark opening could have
+hidden action parameters:
+(these are added to metadata)
+Examples:
+webSite1 -> disable plugin1(due e.g. crashes)
+webSite2 ->disable CSS loading
+WebSite3 ->Turn off javaScript feature X
+WebSite4 -> Use old javaScript engine
+WebSite5 -> limit JavaScript memory use on this site to 128mb
+WebSite6 -> ignore CSS directive Y and Z(except when userstyles)
+WebSite7 -> disable Cookies when opened through this bookmark
+WebSite8 ->open private session with account info in metadata
+WebSite9 -> run this userscript when opened through this bookmark
+WebSite10 -> restrict third-party requests to this list, only when opened through this bookmark
