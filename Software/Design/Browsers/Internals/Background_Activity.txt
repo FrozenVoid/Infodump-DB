@@ -1,0 +1,23 @@
+SSDs are wearing out and
+HDD platters spinning all day?
+Modern browsers write and
+read gigabytes of useless data
+to the disk, store all 
+'temporary data' and
+cache content to disk.
+Modern browsers contact dozens
+of different servers in 
+background that
+are completely opaque to user
+and serve the browser maker 
+needs rather
+than user interests.
+
+Without disabling and configuring
+dozens of settings, a modern
+browser is a waste of disk,
+network and CPU resources.
+Most users do not change these
+settings or are oblivious to 
+background activity of their
+browser.
