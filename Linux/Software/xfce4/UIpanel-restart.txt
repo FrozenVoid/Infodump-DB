@@ -1,0 +1,3 @@
+you can restart 'xfce4-panel' from
+console at any time if it crashes,
+(it will run from terminal)
