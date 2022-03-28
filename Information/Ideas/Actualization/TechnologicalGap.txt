@@ -1,0 +1,13 @@
+A technological gap time is 
+period from idea emerging and
+its actualization to a state 
+of art object.
+Example:
+timekeeping device->clock-> atomic clock
+the period from idea of timekeeping
+ device to Atomic clock is the
+ "Gap time" which gets shorter
+ with level of technology rising.
+ At singularity the gap between
+ emergence of idea to its 
+ ultimate form would be zero.
