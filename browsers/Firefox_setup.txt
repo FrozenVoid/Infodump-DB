@@ -21,3 +21,11 @@ Undo close tab f8
 
 ---------
 browser.sessionhistory.max_total_viewers =1 (minimizes memory use,)
+----------
+librewolf essential addons:
+Decentraleyes
+Greasemonkey
+SponsorBlock
+UBlockOrigin
+YoutubeNonstop
+
