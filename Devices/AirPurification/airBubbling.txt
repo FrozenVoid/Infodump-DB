@@ -1,0 +1,18 @@
+The idea is to push dirty air into 
+tiny bubbles at bottom of reservoir,
+collecting cleaner air at top:
+as air-water boundary in small bubbles
+will dissolve pollution at edge of bubble.
+Water then can be replaced after N cycles.
+
+Scheme:
+[Collector]
+|Water
+|Column
+|
+|
+|
+|
+|
+|ooooooo|
+[Bubbler]
