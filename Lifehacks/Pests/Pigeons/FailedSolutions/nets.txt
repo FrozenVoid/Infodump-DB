@@ -7,8 +7,11 @@ Only steel nets and total coverage of
 If pigeons find a way, they will treat it
 as secure space where they can nest safely.
 If net bends inwards, pigeons will nest 
-in the warped net piece.
+in the warped net piece[1].
 Pigeon nets cannot be used with all locations
 and securing them in high places will be risky:
 furthermore strong wind will damage even steel nets
 since they're secured in few places.
+
+[1] Usually where net is horizontal and stable(
+it has to be vertical or near-vertical everywhere)
