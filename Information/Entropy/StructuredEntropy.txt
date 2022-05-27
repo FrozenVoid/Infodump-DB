@@ -1,0 +1,25 @@
+At the level above random noise,
+where entropy decreases, some structure emerges
+this post-chaotic structure(SE:Structured Entropy)
+is significant source of possible
+inspiration: the human mind finds patterns 
+in nearly-chaotic soup of SE to fill in gaps,
+as abstract skeletons of SE patterns are reified
+into imagined concrete structure(CS).
+The above process could be automated to
+seed fractal/generative algorithms which bring out
+patterns out of seemingly random data,
+tuning them into "harmonic/periodic" structures,
+that are aesthethically appealing and more complex
+that those which are designed with concrete
+structure in mind(artists mental structure->
+reificiation-> concrete structure->implementation)
+as possibility space of random data exceeds
+all mental space(due biological limits and 
+inherent structures in the mind).
+
+Current AI art generation is geared towards replication
+of human mental space vectors, which are 
+inherently limited regions of total possibility
+space that exists in random data.
+
