@@ -1,0 +1,17 @@
+Information in more abstract form tend to allow
+Templatization skeleton that users add concrete
+implementation in their imagined design.
+Users perceive the "unimplemented" parts as
+license to create personal extensions -
+specializations that abstract designs hide in
+"black box" layers(hidden/private/internal state).
+This has more flexibility vs specialized and
+detailed("by the book") designs that only allow
+users to select specific implementation features.
+
+C: _Generic macros vs void* 
+_Generic allows to insert specific type-specific
+ user functions vs void pointer interface forcing
+ conversion and common interfaces(e.g.
+ qsort() which C++ users deride as inefficient due
+  void* conversions)
