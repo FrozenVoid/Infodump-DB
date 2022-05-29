@@ -1,0 +1,11 @@
+Harmony function would be companion to entropy
+to determine the periodicity/symmetry in
+ a data structure: 
+ a completely chaotic dataset would be 
+ high entropy and low harmony,
+ but a low entropy dataset could have different
+ values of harmonicity.
+ 
+ In music lack of harmony in low-entropy data
+ would equivalent to:
+  https://en.wikipedia.org/wiki/Inharmonicity
