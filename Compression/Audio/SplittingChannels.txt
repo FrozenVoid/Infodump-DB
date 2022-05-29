@@ -1,0 +1,4 @@
+The idea is to split each channel
+into several that could be easily
+represented as waveform equation,
+e.g. 1 channel=32 simple waveform channels
