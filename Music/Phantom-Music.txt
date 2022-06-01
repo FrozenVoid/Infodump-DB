@@ -1,0 +1,5 @@
+To trigger phantom music 
+1.listen to music 4+hours
+2.listen to noise in quiet envirinment
+3.pattern recog will construct melodies 
+that would resemble pieces of listened music.
