@@ -40,7 +40,7 @@ Name: http://www.rinkworks.com/namegen/index.shtml
 
 
 6.Cover picture for a song:
-use https://huggingface.co/spaces/flax-community/dalle-mini
+use https://huggingface.co/spaces/dalle-mini/dalle-mini
 with input from random 9-30 char strings 
 from https://qrng.anu.edu.au/random-block-alpha/
 pick the most colorful/complex pic
