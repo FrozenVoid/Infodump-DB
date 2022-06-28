@@ -1,3 +1,4 @@
+MUlti-level Symmetric Index:
 extend https://en.wikipedia.org/wiki/Symmetric_level-index_arithmetic
 by adding to each level a quantity 
 parameter(add/sub) to store operations
