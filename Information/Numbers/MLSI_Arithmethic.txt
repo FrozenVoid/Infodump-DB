@@ -1,0 +1,11 @@
+extend https://en.wikipedia.org/wiki/Symmetric_level-index_arithmetic
+by adding to each level a quantity 
+parameter(add/sub) to store operations
+outside of top level value(that can use mul/div/etc).
+
+The precision of lower levels in LI will
+store float X(+/-) that will be the 
+result of operations below top value in tack.
+When a number is displayed it will show
+t.xxx+t-1.xxx+t-2.xxx where xxx are altered
+values from operations on that level.
