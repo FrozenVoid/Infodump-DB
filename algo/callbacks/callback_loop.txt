@@ -1,0 +1,4 @@
+A callback loop is a callback function
+that itself returns to a callback function
+of host program, which eliminates waiting
+and synchronization issues.
