@@ -1,1 +1,11 @@
+Utility for creating custom xrandr(Xorg) modelines:
+effectively allowing overclocking displays
+and setting exotic modes for scaling/hz/WxH
+example use:
+function setrefresh(){
+xrandr --newmode $*
+xrandr --addmode VGA-1 $1
+xrandr --output VGA-1 --mode $1
+}
+
 https://github.com/kevinlekiller/cvt_modeline_calculator_12
