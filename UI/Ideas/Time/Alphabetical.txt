@@ -8,3 +8,51 @@ Time can be spoken as three-letters:
 with minute letters set to use different
 letters(e.g. qwertyuiopas,dfghjklzxc) with
 position, e.g. A:qd means 0:00 and A:q=0:0x)
+
+
+First minute digit :N.
+0-> silent
+1->i
+2->u
+3->e
+4->a
+5->o
+
+Second minute digit:.N
+0->r
+1->t
+2->p
+3->m
+4->d
+5->b
+6->g
+7->z
+8->k
+9->l
+
+Hour 0-23:
+A=0
+B=1
+C=2
+D=3
+E=4
+F=5
+G=6
+H=7
+I=8
+J=9
+K=10
+L=11
+M=12
+N=13
+O=14
+P=15
+R=16
+S=17
+T=18
+U=19
+V=20
+X=21 
+Y=22 
+Z=23
+
