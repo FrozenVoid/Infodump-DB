@@ -1,0 +1,6 @@
+Time can be represented with letters(A:cd)
+which signify hour:minute
+with minute being 0-9:0-9
+and hour a single capital letter.
+
+Advantage: more compact,less ambigious forms.
