@@ -1,0 +1,13 @@
+Minimized Thumb icon design is an icon
+generated from periodic screenshot(!!!) of
+of a program window, which create following 
+problems:
+
+1.Confusion: as icons on desktop or 
+any dynamically managed window change 
+due content changes.
+2.Latency: each update of N icons has to 
+take N screenshot thumbnails.
+3.Privacy: leaking user state to UI parts.
+(similar to "thumbnail databases" used for
+images in folders).
